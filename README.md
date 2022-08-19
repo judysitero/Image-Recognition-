@@ -1,5 +1,6 @@
 # Image-Recognition-
 
-In this project, we use a pre-trained Convolution Neural Network (CNN) for image classification
+A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other.
 
-In other words, we will build a CNN to see if it can identify our picture accurately. 
+In this project, I use Convolution Neural Network (CNN) for image classification
+
